@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{1426:function(e,n,t){"use strict";t.r(n);var o=t(68),i=t(474),s=Object(i.create)({base:"light",brandTitle:"neu ui",brandUrl:"https://example.com"});o.addons.setConfig({theme:s})},476:function(e,n,t){t(477),t(620),t(1426),t(1272),t(1274),t(1385),e.exports=t(1419)},539:function(e,n){}},[[476,1,2]]]);
